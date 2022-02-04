@@ -53,19 +53,27 @@ footer{
     height: 70px;
 }
 
-.centrali{
-    background-color: rgba(171,207,231,255);
+.sx{
     width: 20%;
-    height: 70px;
+    height: 400px;
     margin-top: 30px;
+    float: left;
 }
 
-.centrale{
-    background-color: rgba(171,207,231,255);
-    width: 40%;
-    height: 70px;
+.cc{
+    width: 60%;
+    height: 400px;
     margin-top: 30px;
+    float: left;
 }
+
+.dx{
+    width: 20%;
+    height: 400px;
+    margin-top: 30px;
+    float: right;
+}
+
 
 
 
